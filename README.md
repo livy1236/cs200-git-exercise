@@ -21,7 +21,7 @@ For mac users that do not have python3 as your default: `python3 file_creator.py
 
 Windows users: `python file_creator.py`
 
-After you run the pyhon code, commit the changes, and make a PR to this repository. 
+After you run the python code, commit the changes, and make a PR to this repository. 
 
 
 Good luck!
