@@ -8,4 +8,4 @@ import os
 
 for i in range(50):
     with open("file_{}.txt".format(i), "w") as file:
-        file.write("This file was created on [INSERT YOUR NAME HERE]'s computer at {} in {}".format(datetime.now(), os.getcwd()))
+        file.write("This file was created on Olivia's computer at {1:50PM} in {Boston, MA}".format(datetime.now(), os.getcwd()))
